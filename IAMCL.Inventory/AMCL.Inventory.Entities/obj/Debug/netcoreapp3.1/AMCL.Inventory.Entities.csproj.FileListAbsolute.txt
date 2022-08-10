@@ -1,0 +1,9 @@
+D:\PROJECT\GITHUB_PROJECT\DOTNET2019\IAMCLInventory\Inventory\IAMCL.Inventory\AMCL.Inventory.Entities\bin\Debug\netcoreapp3.1\AMCL.Inventory.Entities.deps.json
+D:\PROJECT\GITHUB_PROJECT\DOTNET2019\IAMCLInventory\Inventory\IAMCL.Inventory\AMCL.Inventory.Entities\bin\Debug\netcoreapp3.1\AMCL.Inventory.Entities.dll
+D:\PROJECT\GITHUB_PROJECT\DOTNET2019\IAMCLInventory\Inventory\IAMCL.Inventory\AMCL.Inventory.Entities\bin\Debug\netcoreapp3.1\AMCL.Inventory.Entities.pdb
+D:\PROJECT\GITHUB_PROJECT\DOTNET2019\IAMCLInventory\Inventory\IAMCL.Inventory\AMCL.Inventory.Entities\obj\Debug\netcoreapp3.1\AMCL.Inventory.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECT\GITHUB_PROJECT\DOTNET2019\IAMCLInventory\Inventory\IAMCL.Inventory\AMCL.Inventory.Entities\obj\Debug\netcoreapp3.1\AMCL.Inventory.Entities.AssemblyInfoInputs.cache
+D:\PROJECT\GITHUB_PROJECT\DOTNET2019\IAMCLInventory\Inventory\IAMCL.Inventory\AMCL.Inventory.Entities\obj\Debug\netcoreapp3.1\AMCL.Inventory.Entities.AssemblyInfo.cs
+D:\PROJECT\GITHUB_PROJECT\DOTNET2019\IAMCLInventory\Inventory\IAMCL.Inventory\AMCL.Inventory.Entities\obj\Debug\netcoreapp3.1\AMCL.Inventory.Entities.csproj.CoreCompileInputs.cache
+D:\PROJECT\GITHUB_PROJECT\DOTNET2019\IAMCLInventory\Inventory\IAMCL.Inventory\AMCL.Inventory.Entities\obj\Debug\netcoreapp3.1\AMCL.Inventory.Entities.dll
+D:\PROJECT\GITHUB_PROJECT\DOTNET2019\IAMCLInventory\Inventory\IAMCL.Inventory\AMCL.Inventory.Entities\obj\Debug\netcoreapp3.1\AMCL.Inventory.Entities.pdb
